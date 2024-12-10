@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.ab5c4638.css","mappings":"AAAA,QAGI,YAAa,CACb,4BAA6B,CAF7B,gBAAiB,CADjB,SAIJ","sources":["App.css"],"sourcesContent":[".common {\n    width: 80%;\n    margin: 25px auto;\n    display: flex;\n    justify-content: space-evenly;\n}"],"names":[],"sourceRoot":""}
